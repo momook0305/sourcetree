@@ -1,11 +1,5 @@
-`
-# 기능 목록
-1. 도커 파일 생성
-2. Php 파일 생성
-````
-
-`
-
-##커밋 내용
-`
-구구단 웹  앱 구현과 관련한 계획과 기능 리스트 추가함
+#기능목록
+1. Docker file Gen
+2. Gen PHP file
+3. Get a cart
+4. Showing Detail Page
